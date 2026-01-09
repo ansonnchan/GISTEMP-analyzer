@@ -2,7 +2,7 @@
 
 A Python tool to analyze NASA GISTEMP global temperature anomaly data. This project loads, cleans, and processes temperature anomaly records, removes statistical outliers, and generates monthly summaries including mean anomaly, trend slopes, decadal rise, and correlation. Users can also visualize the anomalies in a simple bar chart.
 
-The project leverages **Pandas** and **NumPy** for data manipulation and analysis, and optionally Matplotlib for visualization.
+The project leverages **Pandas** and **NumPy** for data manipulation and analysis, and optionally **Matplotlib** for data visualization.
 
 NASA GISTEMP data was retrieved from: https://psl.noaa.gov/data/timeseries/month/DS/NASAGLBLT/
 
